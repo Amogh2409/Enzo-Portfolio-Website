@@ -74,11 +74,11 @@ const Page3 = () => {
         headingTop="RESULT"
         headingMain="A Symphony of Style and Character"
         paragraphs={[
-          "In the pursuit of introducing a new brand to the market, I dedicated myself to a meticulous design process, ensuring every detail reflected the transparency of the underlying idea and the sophistication my client's brand aimed to embody.",
+          "In the pu rsuit of introducing a new brand to the market, I dedicated myself to a meticulous design process, ensuring every detail reflected the transparency of the underlying idea and the sophistication my client's brand aimed to embody.",
           "The outcome is more than a visual identity; it's a pure and elegant representation frozen in a moment. The logo stands as a testament to the seamless integration of the author's and product's essence with the brand, forging a connection that lingers in the minds of the audience.",
           "This endeavor wasn't just about creating a design; it was about curating an experience. The refined aesthetics not only elevate the brand but serve as a gateway to a world where every nuance tells a story, where the brand and the author's identity converge into a singular, compelling action and narrative.",
         ]}
-      />
+      />,
       <LineBreak />
       <div className="mt-10 relative flex items-center justify-center" data-aos="fade-up">
         <video src="https://video.wixstatic.com/video/f1c650_ce07b5ec772e4cdfbae04217a5d34bf5/1080p/mp4/file.mp4" 

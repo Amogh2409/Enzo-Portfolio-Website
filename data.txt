@@ -1,0 +1,32 @@
+Understand multithreading concepts and implement threads using Runnable and Thread class
+Identify different exception types and implement proper error handling with try-catch-finally blocks
+Master wrapper classes, implement file I/O operations, and write lambda expressions
+Utilize Java Collections Framework including Lists, Sets, Queues and their implementations
+Apply exception handling best practices in real-world programming scenarios
+Demonstrate understanding of Java syntax, data types, and control structures
+Implement OOP concepts including classes, objects, and encapsulation
+Design class hierarchies using inheritance and implement method overriding
+Develop programs using Java control flow statements and basic algorithms
+Apply abstraction principles using abstract classes and interfaces
+Convert between primitive types and objects, and process files using streams
+Create custom exceptions and apply exception handling patterns
+Implement functional interfaces and use built-in functional types
+Configure Spring applications using dependency injection
+Write, compile and run basic Java programs using proper syntax
+Develop a complete Java web application integrating all stack components
+Apply Java fundamentals to solve programming problems
+Create dynamic web pages using JSP and implement session management
+Demonstrate proficiency in core Java programming concepts
+Solve problems using Java operators and control structures
+Implement array operations and multidimensional arrays
+Design methods with proper parameters and return types
+Apply Java best practices in coding style and structure
+Implement database operations using Hibernate ORM framework
+Build RESTful services using Spring Boot
+Design robust applications with comprehensive exception handling
+Select appropriate collection types for different use cases
+Apply Java fundamentals to build small applications
+Optimize collection usage for performance and memory
+Combine I/O operations with functional programming techniques
+Implement concurrent collections for thread-safe operations
+Design concurrent applications using thread synchronization
